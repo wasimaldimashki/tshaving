@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Home/static/css/main.52e879dd.css",
-    "main.js": "/Home/static/js/main.e7ad6779.js",
-    "static/media/feature_2.png": "/Home/static/media/feature_2.fbfba825d4cf924978aa.png",
-    "static/media/feature_1.png": "/Home/static/media/feature_1.9b7505f22e6461a12eeb.png",
-    "static/media/pexels-nikolaos-dimou-1319459.jpg": "/Home/static/media/pexels-nikolaos-dimou-1319459.e752eb6f5e53adcb32d0.jpg",
-    "static/media/backgroundf.jpg": "/Home/static/media/backgroundf.8698ebc18d316886a69b.jpg",
-    "static/media/Team1.png": "/Home/static/media/Team1.241efcf85768c21cef73.png",
-    "static/media/logo.png": "/Home/static/media/logo.e23c7ee2d8ccde1c6a3e.png",
-    "index.html": "/Home/index.html",
-    "main.52e879dd.css.map": "/Home/static/css/main.52e879dd.css.map",
-    "main.e7ad6779.js.map": "/Home/static/js/main.e7ad6779.js.map"
+    "main.css": "/tshaving/static/css/main.1bc05646.css",
+    "main.js": "/tshaving/static/js/main.46ccdec9.js",
+    "static/media/feature_2.png": "/tshaving/static/media/feature_2.fbfba825d4cf924978aa.png",
+    "static/media/feature_1.png": "/tshaving/static/media/feature_1.9b7505f22e6461a12eeb.png",
+    "static/media/pexels-nikolaos-dimou-1319459.jpg": "/tshaving/static/media/pexels-nikolaos-dimou-1319459.e752eb6f5e53adcb32d0.jpg",
+    "static/media/backgroundf.jpg": "/tshaving/static/media/backgroundf.8698ebc18d316886a69b.jpg",
+    "static/media/Team1.png": "/tshaving/static/media/Team1.241efcf85768c21cef73.png",
+    "static/media/logo.png": "/tshaving/static/media/logo.e23c7ee2d8ccde1c6a3e.png",
+    "index.html": "/tshaving/index.html",
+    "main.1bc05646.css.map": "/tshaving/static/css/main.1bc05646.css.map",
+    "main.46ccdec9.js.map": "/tshaving/static/js/main.46ccdec9.js.map"
   },
   "entrypoints": [
-    "static/css/main.52e879dd.css",
-    "static/js/main.e7ad6779.js"
+    "static/css/main.1bc05646.css",
+    "static/js/main.46ccdec9.js"
   ]
 }
