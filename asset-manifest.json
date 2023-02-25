@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/tshaving/static/css/main.273cdad7.css",
-    "main.js": "/tshaving/static/js/main.b0e1eb7a.js",
-    "static/media/video1.mp4": "/tshaving/static/media/video1.950d41d9fc4eb6f55cd1.mp4",
-    "static/media/feature_2.png": "/tshaving/static/media/feature_2.fbfba825d4cf924978aa.png",
-    "static/media/andrea-donato-MNu0n-3BIKs-unsplash.jpg": "/tshaving/static/media/andrea-donato-MNu0n-3BIKs-unsplash.27c276e72cd30ce09db9.jpg",
-    "static/media/feature_1.png": "/tshaving/static/media/feature_1.9b7505f22e6461a12eeb.png",
-    "static/media/background.png": "/tshaving/static/media/background.66fa853bdabcac380749.png",
-    "static/media/backgroundf.jpg": "/tshaving/static/media/backgroundf.8698ebc18d316886a69b.jpg",
-    "static/media/logo.png": "/tshaving/static/media/logo.0938ea80690a2d495fc6.png",
-    "static/media/Team1.png": "/tshaving/static/media/Team1.241efcf85768c21cef73.png",
-    "static/media/work.jpg": "/tshaving/static/media/work.2d226eec501193190aaf.jpg",
-    "static/media/f4.png": "/tshaving/static/media/f4.a9521dd11459165ef903.png",
-    "static/media/barbershop.png": "/tshaving/static/media/barbershop.e7474029979b9f79c190.png",
-    "static/media/f3.png": "/tshaving/static/media/f3.06aa7e53ad295c42a63c.png",
-    "static/media/f1.png": "/tshaving/static/media/f1.80beabbce6cbfd9a53cb.png",
-    "static/media/f2.png": "/tshaving/static/media/f2.49c979ea1acae43c50ad.png",
-    "static/media/f6.png": "/tshaving/static/media/f6.fb1b884deedc1ffcfff3.png",
-    "static/media/f5.png": "/tshaving/static/media/f5.27569c66ace6cd473fbc.png",
-    "index.html": "/tshaving/index.html",
-    "main.273cdad7.css.map": "/tshaving/static/css/main.273cdad7.css.map",
-    "main.b0e1eb7a.js.map": "/tshaving/static/js/main.b0e1eb7a.js.map"
+    "main.css": "/static/css/main.ad02b82d.css",
+    "main.js": "/static/js/main.8173a08c.js",
+    "static/media/video1.mp4": "/static/media/video1.950d41d9fc4eb6f55cd1.mp4",
+    "static/media/feature_2.png": "/static/media/feature_2.fbfba825d4cf924978aa.png",
+    "static/media/andrea-donato-MNu0n-3BIKs-unsplash.jpg": "/static/media/andrea-donato-MNu0n-3BIKs-unsplash.27c276e72cd30ce09db9.jpg",
+    "static/media/feature_1.png": "/static/media/feature_1.9b7505f22e6461a12eeb.png",
+    "static/media/background.png": "/static/media/background.66fa853bdabcac380749.png",
+    "static/media/backgroundf.jpg": "/static/media/backgroundf.8698ebc18d316886a69b.jpg",
+    "static/media/logo.png": "/static/media/logo.0938ea80690a2d495fc6.png",
+    "static/media/Team1.png": "/static/media/Team1.241efcf85768c21cef73.png",
+    "static/media/work.jpg": "/static/media/work.2d226eec501193190aaf.jpg",
+    "static/media/f4.png": "/static/media/f4.a9521dd11459165ef903.png",
+    "static/media/barbershop.png": "/static/media/barbershop.e7474029979b9f79c190.png",
+    "static/media/f3.png": "/static/media/f3.06aa7e53ad295c42a63c.png",
+    "static/media/f1.png": "/static/media/f1.80beabbce6cbfd9a53cb.png",
+    "static/media/f2.png": "/static/media/f2.49c979ea1acae43c50ad.png",
+    "static/media/f6.png": "/static/media/f6.fb1b884deedc1ffcfff3.png",
+    "static/media/f5.png": "/static/media/f5.27569c66ace6cd473fbc.png",
+    "index.html": "/index.html",
+    "main.ad02b82d.css.map": "/static/css/main.ad02b82d.css.map",
+    "main.8173a08c.js.map": "/static/js/main.8173a08c.js.map"
   },
   "entrypoints": [
-    "static/css/main.273cdad7.css",
-    "static/js/main.b0e1eb7a.js"
+    "static/css/main.ad02b82d.css",
+    "static/js/main.8173a08c.js"
   ]
 }
