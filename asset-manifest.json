@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tshaving/static/css/main.f8416a85.css",
-    "main.js": "/tshaving/static/js/main.1cc88892.js",
+    "main.css": "/tshaving/static/css/main.a3258aa7.css",
+    "main.js": "/tshaving/static/js/main.230d1f29.js",
     "static/media/video1.mp4": "/tshaving/static/media/video1.950d41d9fc4eb6f55cd1.mp4",
     "static/media/feature_2.png": "/tshaving/static/media/feature_2.fbfba825d4cf924978aa.png",
     "static/media/andrea-donato-MNu0n-3BIKs-unsplash.jpg": "/tshaving/static/media/andrea-donato-MNu0n-3BIKs-unsplash.27c276e72cd30ce09db9.jpg",
@@ -18,12 +18,13 @@
     "static/media/f2.png": "/tshaving/static/media/f2.49c979ea1acae43c50ad.png",
     "static/media/f6.png": "/tshaving/static/media/f6.fb1b884deedc1ffcfff3.png",
     "static/media/f5.png": "/tshaving/static/media/f5.27569c66ace6cd473fbc.png",
+    "static/media/logoo.png": "/tshaving/static/media/logoo.e23c7ee2d8ccde1c6a3e.png",
     "index.html": "/tshaving/index.html",
-    "main.f8416a85.css.map": "/tshaving/static/css/main.f8416a85.css.map",
-    "main.1cc88892.js.map": "/tshaving/static/js/main.1cc88892.js.map"
+    "main.a3258aa7.css.map": "/tshaving/static/css/main.a3258aa7.css.map",
+    "main.230d1f29.js.map": "/tshaving/static/js/main.230d1f29.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8416a85.css",
-    "static/js/main.1cc88892.js"
+    "static/css/main.a3258aa7.css",
+    "static/js/main.230d1f29.js"
   ]
 }
